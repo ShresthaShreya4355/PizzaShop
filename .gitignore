@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/PizzaShop
+/PizzaShop/bin/Debug/netcoreapp3.1
+/PizzaShop/obj/Debug/netcoreapp3.1
+/PizzaShop/obj
